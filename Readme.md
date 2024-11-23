@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Gurjashan Singh Saharan</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm currently pursuing a technical program at MITT and honing my skills in programming and app development. Passionate about creating meaningful software and exploring new technologies, I love to be collaborative with my others students.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guri204&label=Profile%20views&color=0e75b6&style=flat" alt="guri204" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guri204" alt="guri204" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gurjashan singh saharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurjashan singh saharan" height="30" width="40" /></a>
